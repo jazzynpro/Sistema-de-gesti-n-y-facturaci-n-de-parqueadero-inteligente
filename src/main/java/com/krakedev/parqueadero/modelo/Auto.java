@@ -19,8 +19,4 @@ public class Auto extends Vehiculo{
 	}
 		return total;
 	}
-	
-	
-	
-
-}
+	}
